@@ -36,9 +36,6 @@ Learning to read Thai can be challenging.  Thai script doesn't always explicitly
 Original Thai: สวัสดี
 ThaiFont: สวัสดี (The vowels are underlined for emphasis in this example, but show how your font highlights them)
 Explanation: Notice how the vowels are highlighted, helping you to recognize the sounds.
-Copy
-
-)
 
 ## Contributing
 
