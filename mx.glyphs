@@ -7,7 +7,9 @@ M,
 "ä",
 I,
 i,
-"ข"
+"ข",
+"",
+"/CR"
 );
 customParameters = (
 {
@@ -443,7 +445,6 @@ pos = -392;
 }
 );
 name = Normal;
-visible = 1;
 }
 );
 glyphs = (
@@ -9637,6 +9638,7 @@ unicode = 223;
 },
 {
 glyphname = grave;
+lastChange = "2026-03-15 10:07:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -9655,6 +9657,31 @@ nodes = (
 );
 }
 );
+width = 225;
+},
+{
+associatedMasterId = m01;
+attr = {
+colorPalette = 1;
+};
+layerId = "FCAD9D2E-9B5B-40F9-B255-AD54CC143F2E";
+name = "15 Mar 69 BE 17:07";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-7,517,l),
+(8,501,o),
+(37,469,o),
+(82,422,c),
+(127,422,l),
+(117,438,o),
+(97,470,o),
+(67,517,c)
+);
+}
+);
+visible = 1;
 width = 225;
 }
 );
@@ -12278,7 +12305,7 @@ unicode = 3659;
 },
 {
 glyphname = maiEkthai;
-lastChange = "2026-03-15 09:31:16 +0000";
+lastChange = "2026-03-15 22:25:25 +0000";
 layers = (
 {
 layerId = m01;
@@ -12302,7 +12329,7 @@ width = 0;
 {
 associatedMasterId = m01;
 attr = {
-colorPalette = 0;
+colorPalette = 1;
 };
 layerId = "CB3DEC28-2A65-476B-A121-71C4DEEC0723";
 name = "15 Mar 69 BE 16:30";
@@ -25318,9 +25345,19 @@ unicode = 159;
 },
 {
 glyphname = uni00A0;
+lastChange = "2026-03-15 22:23:09 +0000";
 layers = (
 {
 layerId = m01;
+width = 463;
+},
+{
+associatedMasterId = m01;
+attr = {
+colorPalette = 1;
+};
+layerId = "55EB013A-4BD4-4D38-835D-0A4E708C2237";
+name = "16 Mar 69 BE 05:23";
 width = 463;
 }
 );
